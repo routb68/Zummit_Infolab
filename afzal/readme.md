@@ -1,0 +1,1 @@
+used mediapipe library alongside opencv for face detection
